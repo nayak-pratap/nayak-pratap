@@ -25,7 +25,7 @@ I lead a team of engineers who solve real machining challenges on the shop floor
 ## Background
 
 - 🎓 Executive MBA (with AI), IIM Sirmaur
-- 🏭 Manufacturing and cutting-tool engineering leadership
+- 🏭 Cutting-tool (Mfg) solutions engineering leadership
 - 📐 Preparing for Lean Six Sigma Black Belt certification
 
 ## Connect
