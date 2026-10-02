@@ -30,7 +30,7 @@ I lead a team of engineers who solve real machining challenges on the shop floor
 
 ## Connect
 
-- LinkedIn: (www.linkedin.com/in/pratap-nayak)(#)
+- LinkedIn: (www.linkedin.com/in/pratap-nayak)
 
 ---
 
