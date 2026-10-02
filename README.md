@@ -1,37 +1,37 @@
-# Hi, I'm Pratap Nayak 👋
+# Pratap Nayak
 
-Engineering leader in cutting tools and machining, pursuing an Executive MBA (with AI) at IIM Sirmaur.
+**Engineering leader in cutting tools and machining · Executive MBA (with AI), IIM Sirmaur**
 
-I lead a team of engineers who solve real machining challenges on the shop floor. Here I turn that experience into practical, free tools for manufacturing, operations and business decisions.
+I lead a team of engineers who solve machining problems on the shop floor. This account is where I turn that experience, plus what I'm learning in my MBA and in technology, into free, practical resources for manufacturing, operations and business decisions.
 
-## What I'm building
+## Three pillars
 
-- 🔧 **Machining calculators**: speeds, feeds, material removal rate, power and cost per part
-- 📊 **Lean Six Sigma toolkit**: DPMO, sigma level, Cp/Cpk and sample-size helpers
-- 💼 **Business decision tools**: NPV/IRR, break-even, EOQ and business-case templates
-- 🤖 **AI for operations**: assistants, prompts and case studies for engineering problem-solving
-- 🧠 **Knowledge management**: curated notes, templates and lessons-learned frameworks
+Everything here lives under one of three areas, and each area links to the others where they meet.
 
-## Featured projects
-
-| Project | What it does | Status |
+| Pillar | What it covers | Repository |
 |---|---|---|
-| [machining-toolkit](https://github.com/pratapnayak-eng/machining-toolkit) | Mobile-friendly calculators for use at the machine | 🔜 Planned |
-| [quality-six-sigma-toolkit](https://github.com/pratapnayak-eng/quality-six-sigma-toolkit) | Quality and process-capability calculators with study notes | 🔜 Planned |
-| [business-decision-frameworks](https://github.com/pratapnayak-eng/business-decision-frameworks) | MBA-style decision tools with worked examples | 🔜 Planned |
-| [ai-for-operations](https://github.com/pratapnayak-eng/ai-for-operations) | Prompts, assistants and case studies for operations | 🔜 Planned |
-| [knowledge-management](https://github.com/pratapnayak-eng/knowledge-management) | Curated notes, concept summaries and templates for capturing and sharing engineering and business knowledge | 🔜 Planned |
+| **Engineering** | The physical-world side: machining and cutting tools, materials, quality, manufacturing systems | [engineering](https://github.com/pratapnayak-eng/engineering) |
+| **Management** | Decisions, finance, operations, leadership and knowledge: the MBA side | [management](https://github.com/pratapnayak-eng/management) |
+| **Technology** | Software, data, automation and AI applied to operations | [technology](https://github.com/pratapnayak-eng/technology) |
+
+Content is being added deliberately, one area at a time.
+
+## How I build
+
+- **Checked, not just written.** Technical content is verified against published worked examples before release.
+- **Assumptions are visible.** Each resource states what it assumes and where it stops being valid.
+- **Open sources only.** Content is original or built from public references. Nothing here comes from my employer's data, documents or internal systems.
 
 ## Background
 
-- 🎓 Executive MBA (with AI), IIM Sirmaur
-- 🏭 Cutting-tool (Mfg) solutions engineering leadership
-- 📐 Preparing for Lean Six Sigma Black Belt certification
+- Executive MBA (with AI), IIM Sirmaur
+- Engineering leadership in cutting-tool solutions, with a B.Tech in Engineering Technology
+- Preparing for the IASSC Lean Six Sigma Black Belt (ICBB)
 
 ## Connect
 
-- LinkedIn: (www.linkedin.com/in/pratap-nayak)
+[LinkedIn](https://www.linkedin.com/in/pratap-nayak)
 
 ---
 
-*Tools in my repositories are for educational and reference use. Always verify against manufacturer recommendations before applying on the shop floor.*
+*Views and content here are my own and not those of my employer. They are for education and reference. Always verify against manufacturer recommendations before applying anything on the shop floor.*
