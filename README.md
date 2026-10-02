@@ -4,14 +4,18 @@
 
 I lead a team of engineers who solve machining problems on the shop floor. This account is where I turn that experience, plus what I'm learning in my MBA and in technology, into free, practical resources for manufacturing, operations and business decisions.
 
+## Where I'm headed
+
+I'm deliberately moving from hands-on engineering leadership toward roles that sit where manufacturing, management and AI meet. This account is the public record of that move: what I'm learning, what I'm building, and how I think.
+
 ## Three pillars
 
 Everything here lives under one of three areas, and each area links to the others where they meet.
 
 | Pillar | What it covers | Repository |
 |---|---|---|
-| **Engineering** | The physical-world side: machining and cutting tools, materials, quality, manufacturing systems | [engineering](https://github.com/pratapnayak-eng/engineering) |
-| **Management** | Decisions, finance, operations, leadership and knowledge: the MBA side | [management](https://github.com/pratapnayak-eng/management) |
+| **Engineering** | The physical-world side: machining and cutting tools, materials, manufacturing systems | [engineering](https://github.com/pratapnayak-eng/engineering) |
+| **Management** | Decisions, finance, operations, quality and Six Sigma, leadership and knowledge: the MBA side | [management](https://github.com/pratapnayak-eng/management) |
 | **Technology** | Software, data, automation and AI applied to operations | [technology](https://github.com/pratapnayak-eng/technology) |
 
 Content is being added deliberately, one area at a time.
