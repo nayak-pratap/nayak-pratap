@@ -3,7 +3,7 @@
 Machining engineer broadening into management and applied AI.
 Perusing, Executive MBA (with AI), IIM Sirmaur
 
-I lead engineers who solve machining problems on the shop floor. This is where I turn that experience into free, practical tools for manufacturing and business decisions.
+This is where I turn my experience into free, practical tools for manufacturing and business decisions.
 
 ## Three pillars
 
