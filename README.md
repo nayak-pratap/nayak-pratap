@@ -3,7 +3,7 @@
 Machining engineer broadening into management and applied AI.
 Perusing, Executive MBA (with AI), IIM Sirmaur
 
-This is where I turn my experience into free, practical tools for manufacturing and business decisions.
+This is where I turn my learning into free, practical tools for manufacturing and business decisions.
 
 ## Three pillars
 
