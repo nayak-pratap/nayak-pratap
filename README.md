@@ -1,7 +1,7 @@
 # Pratap Nayak
 
 Machining engineer broadening into management and applied AI.
-Executive MBA (with AI), IIM Sirmaur
+Perusing, Executive MBA (with AI), IIM Sirmaur
 
 I lead engineers who solve machining problems on the shop floor. This is where I turn that experience into free, practical tools for manufacturing and business decisions.
 
