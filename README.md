@@ -1,17 +1,18 @@
 # Pratap Nayak
 
 Machining engineer broadening into management and applied AI.
-Perusing, Executive MBA (with AI), IIM Sirmaur
+
+Pursuing an Executive MBA (with AI) at IIM Sirmaur.
 
 This is where I turn my learning into free, practical tools for manufacturing and business decisions.
 
 ## Three pillars
 
-**Engineering**: engineering and machining calculators.
+**Engineering**: Engineering and machining calculators.
 
-**Management**: frameworks and decision tools such as DPMO, sigma level, Cp/Cpk, NPV/IRR, break-even and EOQ.
+**Management**: Frameworks and decision tools.
 
-**Technology**: AI for operations, with prompts and anonymized case studies for engineering problem-solving.
+**Technology**: AI for operations, particularly knowledge management.
 
 ## How I build
 
