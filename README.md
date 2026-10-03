@@ -1,41 +1,24 @@
 # Pratap Nayak
 
-**Engineering leader in cutting tools and machining · Executive MBA (with AI), IIM Sirmaur**
+Machining engineer broadening into management and applied AI.
+Executive MBA (with AI), IIM Sirmaur
 
-I lead a team of engineers who solve machining problems on the shop floor. This account is where I turn that experience, plus what I'm learning in my MBA and in technology, into free, practical resources for manufacturing, operations and business decisions.
-
-## Where I'm headed
-
-I'm deliberately moving from hands-on engineering leadership toward roles that sit where manufacturing, management and AI meet. This account is the public record of that move: what I'm learning, what I'm building, and how I think.
+I lead engineers who solve machining problems on the shop floor. This is where I turn that experience into free, practical tools for manufacturing and business decisions.
 
 ## Three pillars
 
-Everything here lives under one of three areas, and each area links to the others where they meet.
+**Engineering**: engineering and machining calculators.
 
-| Pillar | What it covers | Repository |
-|---|---|---|
-| **Engineering** | The physical-world side: machining and cutting tools, materials, manufacturing systems | [engineering](https://github.com/pratapnayak-iim/engineering) |
-| **Management** | Decisions, finance, operations, quality and Six Sigma, leadership and knowledge: the MBA side | [management](https://github.com/pratapnayak-iim/management) |
-| **Technology** | Software, data, automation and AI applied to operations | [technology](https://github.com/pratapnayak-iim/technology) |
+**Management**: frameworks and decision tools such as DPMO, sigma level, Cp/Cpk, NPV/IRR, break-even and EOQ.
 
-Content is being added deliberately, one area at a time.
+**Technology**: AI for operations, with prompts and anonymized case studies for engineering problem-solving.
 
 ## How I build
 
-- **Checked, not just written.** Technical content is verified against published worked examples before release.
-- **Assumptions are visible.** Each resource states what it assumes and where it stops being valid.
-- **Open sources only.** Content is original or built from public references. Nothing here comes from my employer's data, documents or internal systems.
-
-## Background
-
-- Executive MBA (with AI), IIM Sirmaur
-- Engineering leadership in cutting-tool solutions, with a B.Tech in Engineering Technology
-- Preparing for the IASSC Lean Six Sigma Black Belt (ICBB)
+- Every tool shows its formulas, assumptions and a worked example.
+- Built from standard, published equations. No employer data.
+- For education and reference. Always verify against manufacturer recommendations before applying on the shop floor.
 
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/pratap-nayak)
-
----
-
-*Views and content here are my own and not those of my employer. They are for education and reference. Always verify against manufacturer recommendations before applying anything on the shop floor.*
