@@ -14,9 +14,9 @@ Everything here lives under one of three areas, and each area links to the other
 
 | Pillar | What it covers | Repository |
 |---|---|---|
-| **Engineering** | The physical-world side: machining and cutting tools, materials, manufacturing systems | [engineering](https://github.com/pratapnayak-eng/engineering) |
-| **Management** | Decisions, finance, operations, quality and Six Sigma, leadership and knowledge: the MBA side | [management](https://github.com/pratapnayak-eng/management) |
-| **Technology** | Software, data, automation and AI applied to operations | [technology](https://github.com/pratapnayak-eng/technology) |
+| **Engineering** | The physical-world side: machining and cutting tools, materials, manufacturing systems | [engineering](https://github.com/pratapnayak-iim/engineering) |
+| **Management** | Decisions, finance, operations, quality and Six Sigma, leadership and knowledge: the MBA side | [management](https://github.com/pratapnayak-iim/management) |
+| **Technology** | Software, data, automation and AI applied to operations | [technology](https://github.com/pratapnayak-iim/technology) |
 
 Content is being added deliberately, one area at a time.
 
