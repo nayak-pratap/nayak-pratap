@@ -4,7 +4,7 @@ Machining engineer broadening into management and applied AI.
 
 Pursuing an Executive MBA (with AI) at IIM Sirmaur.
 
-This is where I turn my learning into free, practical tools for manufacturing and business decisions.
+This is where I turn my learning into free, practical tools and frameworks for manufacturing and business decisions.
 
 ## Three pillars
 
